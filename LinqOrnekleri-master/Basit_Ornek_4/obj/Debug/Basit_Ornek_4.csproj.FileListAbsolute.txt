@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\bin\Debug\Basit_Ornek_4.exe.config
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\bin\Debug\Basit_Ornek_4.exe
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\bin\Debug\Basit_Ornek_4.pdb
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\bin\Debug\LinqOrnekleri-VeriKaynagi.exe
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\bin\Debug\LinqOrnekleri-VeriKaynagi.pdb
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\bin\Debug\LinqOrnekleri-VeriKaynagi.exe.config
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\obj\Debug\Basit_Ornek_4.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\obj\Debug\Basit_Ornek_4.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\obj\Debug\Basit_Ornek_4.csproj.CopyComplete
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\obj\Debug\Basit_Ornek_4.exe
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\Basit_Ornek_4\obj\Debug\Basit_Ornek_4.pdb

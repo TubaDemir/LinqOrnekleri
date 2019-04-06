@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\LinqOrnekleri-VeriKaynagi\bin\Debug\LinqOrnekleri-VeriKaynagi.exe.config
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\LinqOrnekleri-VeriKaynagi\bin\Debug\LinqOrnekleri-VeriKaynagi.exe
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\LinqOrnekleri-VeriKaynagi\bin\Debug\LinqOrnekleri-VeriKaynagi.pdb
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\LinqOrnekleri-VeriKaynagi\obj\Debug\LinqOrnekleri-VeriKaynagi.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\LinqOrnekleri-VeriKaynagi\obj\Debug\LinqOrnekleri-VeriKaynagi.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\LinqOrnekleri-VeriKaynagi\obj\Debug\LinqOrnekleri-VeriKaynagi.exe
+C:\Users\Section2\source\repos\NT_LinqOrnekleri_1\LinqOrnekleri-VeriKaynagi\obj\Debug\LinqOrnekleri-VeriKaynagi.pdb
